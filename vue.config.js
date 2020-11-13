@@ -2,7 +2,7 @@
 const path = require("path");
 
 module.exports = {
-    publicPath: '/august_wind',
+    publicPath: '/',
     outputDir: 'dist',
     assetsDir: 'static',
     productionSourceMap: false,
