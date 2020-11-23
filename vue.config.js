@@ -2,7 +2,7 @@
 const path = require("path");
 
 module.exports = {
-    publicPath: '/jenkinTest/dist',
+    publicPath: '/jenkinTest',
     outputDir: 'dist',
     assetsDir: 'static',
     productionSourceMap: false,
